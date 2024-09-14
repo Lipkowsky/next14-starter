@@ -8,7 +8,7 @@ const NavigationTestPage = () => {
   //   const router = useRouter();
   //   const pathname = usePathname();
   //   const searchParams = useSearchParams();
-
+  // TEST
   //   const q  = searchParams.get('q')
 
   const handleClick = () => {
